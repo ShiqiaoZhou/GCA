@@ -1,0 +1,9 @@
+seed_10_batch_size_1024_lr_0.01_stru_sim_0.25_lmbd_0.06
+1_to_2	feature_id:14	RMSE:0.901267	MAE:0.756422
+
+seed_10_batch_size_1024_lr_0.01_stru_sim_0.25_lmbd_0.06
+1_to_3	feature_id:14	RMSE:0.849411	MAE:0.734146
+
+seed_10_batch_size_1024_lr_0.01_stru_sim_0.25_lmbd_0.06
+2_to_1	feature_id:14	RMSE:0.801933	MAE:0.713103
+

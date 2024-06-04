@@ -266,7 +266,7 @@ if __name__ == '__main__':
     src_test_set = src_total_set[src_train_size + src_val_size:, :]
     tgt_test_set = tgt_total_set[tgt_train_size + tgt_val_size:, :]
 
-    direction = "%d->%d" % (args.src, args.tgt)
+    direction = "%d_to_%d" % (args.src, args.tgt)
 
     lag = args.lag
     num_vars = args.p
